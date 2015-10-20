@@ -15,6 +15,7 @@
 		49048CEC1BD684760046D246 /* PositionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49048CEB1BD684760046D246 /* PositionViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		49DA72E71BD68C3800B27E0C /* OpacityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DA72E61BD68C3800B27E0C /* OpacityViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		49DA72E91BD6928A00B27E0C /* ScaleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DA72E81BD6928A00B27E0C /* ScaleViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		49DA72EB1BD6961800B27E0C /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DA72EA1BD6961800B27E0C /* ColorViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		49048CEB1BD684760046D246 /* PositionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PositionViewController.swift; sourceTree = "<group>"; };
 		49DA72E61BD68C3800B27E0C /* OpacityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpacityViewController.swift; sourceTree = "<group>"; };
 		49DA72E81BD6928A00B27E0C /* ScaleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleViewController.swift; sourceTree = "<group>"; };
+		49DA72EA1BD6961800B27E0C /* ColorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				49048CE51BD682980046D246 /* Info.plist */,
 				49DA72E61BD68C3800B27E0C /* OpacityViewController.swift */,
 				49DA72E81BD6928A00B27E0C /* ScaleViewController.swift */,
+				49DA72EA1BD6961800B27E0C /* ColorViewController.swift */,
 			);
 			path = iOSAnimationSample;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				49DA72E91BD6928A00B27E0C /* ScaleViewController.swift in Sources */,
 				49048CDC1BD682980046D246 /* ViewController.swift in Sources */,
 				49DA72E71BD68C3800B27E0C /* OpacityViewController.swift in Sources */,
+				49DA72EB1BD6961800B27E0C /* ColorViewController.swift in Sources */,
 				49048CDA1BD682980046D246 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
