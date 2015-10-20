@@ -13,6 +13,7 @@
 		49048CE11BD682980046D246 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49048CE01BD682980046D246 /* Assets.xcassets */; };
 		49048CE41BD682980046D246 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49048CE21BD682980046D246 /* LaunchScreen.storyboard */; };
 		49048CEC1BD684760046D246 /* PositionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49048CEB1BD684760046D246 /* PositionViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		49DA72E71BD68C3800B27E0C /* OpacityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DA72E61BD68C3800B27E0C /* OpacityViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		49048CE31BD682980046D246 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49048CE51BD682980046D246 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49048CEB1BD684760046D246 /* PositionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PositionViewController.swift; sourceTree = "<group>"; };
+		49DA72E61BD68C3800B27E0C /* OpacityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpacityViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				49048CE01BD682980046D246 /* Assets.xcassets */,
 				49048CE21BD682980046D246 /* LaunchScreen.storyboard */,
 				49048CE51BD682980046D246 /* Info.plist */,
+				49DA72E61BD68C3800B27E0C /* OpacityViewController.swift */,
 			);
 			path = iOSAnimationSample;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				49048CEC1BD684760046D246 /* PositionViewController.swift in Sources */,
 				49048CDC1BD682980046D246 /* ViewController.swift in Sources */,
+				49DA72E71BD68C3800B27E0C /* OpacityViewController.swift in Sources */,
 				49048CDA1BD682980046D246 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,6 +291,7 @@
 				49048CEA1BD682980046D246 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
