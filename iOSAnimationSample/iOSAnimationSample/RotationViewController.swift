@@ -30,6 +30,12 @@ class RotationViewController: UIViewController {
             }){ (finished) -> Void in
                 self.sipn()
         }//Trailing 闭包
+        
+//        UIView.animateWithDuration(1, delay: 0, options: UIViewAnimationOptions.CurveLinear, animations: {
+//                self.wheelImage.transform = CGAffineTransformRotate(self.wheelImage.transform, CGFloat(M_PI))
+//            }, completion: {(finished) -> Void in
+//                self.sipn()
+//        })
     }
     
     override func viewDidAppear(animated: Bool) {
